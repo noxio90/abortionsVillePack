@@ -1,0 +1,2 @@
+#give B2b, featuring tinashe to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:b2b__featuring_tinashe54",minecraft:custom_model_data={strings:["b2b__featuring_tinashe54"]}]

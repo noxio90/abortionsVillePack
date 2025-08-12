@@ -1,0 +1,504 @@
+{
+  "packTitle": "abortionsVille-pack",
+  "packDescription": "The abortionsVille pack",
+  "packVersion": 34,
+  "packIcon": "pack.png",
+  "songs": [
+    {
+      "title": "One of My Bedbugs Ate My Pussy",
+      "author": "cupcakKe",
+      "length": 174.976871,
+      "filePath": "assets/minecraft/sounds/records/music_disc_one_of_my_bedbugs_ate_my_pussy0.ogg",
+      "imagePath": "assets/minecraft/textures/item/one_of_my_bedbugs_ate_my_pussy0.png",
+      "animated": false
+    },
+    {
+      "title": "Hammer",
+      "author": "Lorde",
+      "length": 193.515102,
+      "filePath": "assets/minecraft/sounds/records/music_disc_hammer1.ogg",
+      "imagePath": "assets/minecraft/textures/item/hammer1.png",
+      "animated": false
+    },
+    {
+      "title": "What Was That",
+      "author": "Lorde",
+      "length": 209.026032,
+      "filePath": "assets/minecraft/sounds/records/music_disc_what_was_that2.ogg",
+      "imagePath": "assets/minecraft/textures/item/what_was_that2.png",
+      "animated": false
+    },
+    {
+      "title": "Shapeshifter",
+      "author": "Lorde",
+      "length": 257.114558,
+      "filePath": "assets/minecraft/sounds/records/music_disc_shapeshifter3.ogg",
+      "imagePath": "assets/minecraft/textures/item/shapeshifter3.png",
+      "animated": false
+    },
+    {
+      "title": "Man Of The Year",
+      "author": "Lorde",
+      "length": 195.140499,
+      "filePath": "assets/minecraft/sounds/records/music_disc_man_of_the_year4.ogg",
+      "imagePath": "assets/minecraft/textures/item/man_of_the_year4.png",
+      "animated": false
+    },
+    {
+      "title": "Favourite Daughter",
+      "author": "Lorde",
+      "length": 208.770612,
+      "filePath": "assets/minecraft/sounds/records/music_disc_favourite_daughter5.ogg",
+      "imagePath": "assets/minecraft/textures/item/favourite_daughter5.png",
+      "animated": false
+    },
+    {
+      "title": "Current Affairs",
+      "author": "Lorde",
+      "length": 198.600272,
+      "filePath": "assets/minecraft/sounds/records/music_disc_current_affairs6.ogg",
+      "imagePath": "assets/minecraft/textures/item/current_affairs6.png",
+      "animated": false
+    },
+    {
+      "title": "Clearblue",
+      "author": "Lorde",
+      "length": 117.423311,
+      "filePath": "assets/minecraft/sounds/records/music_disc_clearblue7.ogg",
+      "imagePath": "assets/minecraft/textures/item/clearblue7.png",
+      "animated": false
+    },
+    {
+      "title": "GRWM",
+      "author": "Lorde",
+      "length": 155.550476,
+      "filePath": "assets/minecraft/sounds/records/music_disc_grwm8.ogg",
+      "imagePath": "assets/minecraft/textures/item/grwm8.png",
+      "animated": false
+    },
+    {
+      "title": "Broken Glass",
+      "author": "Lorde",
+      "length": 194.165261,
+      "filePath": "assets/minecraft/sounds/records/music_disc_broken_glass9.ogg",
+      "imagePath": "assets/minecraft/textures/item/broken_glass9.png",
+      "animated": false
+    },
+    {
+      "title": "If She Could See Me Now",
+      "author": "Lorde",
+      "length": 176.912834,
+      "filePath": "assets/minecraft/sounds/records/music_disc_if_she_could_see_me_now10.ogg",
+      "imagePath": "assets/minecraft/textures/item/if_she_could_see_me_now10.png",
+      "animated": false
+    },
+    {
+      "title": "David",
+      "author": "Lorde",
+      "length": 205.101859,
+      "filePath": "assets/minecraft/sounds/records/music_disc_david11.ogg",
+      "imagePath": "assets/minecraft/textures/item/david11.png",
+      "animated": false
+    },
+    {
+      "title": "PRINCESS OF POWER",
+      "author": "MARINA",
+      "length": 250.055692,
+      "filePath": "assets/minecraft/sounds/records/music_disc_princess_of_power12.ogg",
+      "imagePath": "assets/minecraft/textures/item/princess_of_power12.png",
+      "animated": false
+    },
+    {
+      "title": "BUTTERFLY",
+      "author": "MARINA",
+      "length": 265.613061,
+      "filePath": "assets/minecraft/sounds/records/music_disc_butterfly13.ogg",
+      "imagePath": "assets/minecraft/textures/item/butterfly13.png",
+      "animated": false
+    },
+    {
+      "title": "CUNTISSIMO",
+      "author": "MARINA",
+      "length": 240.976689,
+      "filePath": "assets/minecraft/sounds/records/music_disc_cuntissimo14.ogg",
+      "imagePath": "assets/minecraft/textures/item/cuntissimo14.png",
+      "animated": false
+    },
+    {
+      "title": "ROLLERCOASTER",
+      "author": "MARINA",
+      "length": 184.06458,
+      "filePath": "assets/minecraft/sounds/records/music_disc_rollercoaster15.ogg",
+      "imagePath": "assets/minecraft/textures/item/rollercoaster15.png",
+      "animated": false
+    },
+    {
+      "title": "CUPID'S GIRL",
+      "author": "MARINA",
+      "length": 209.026032,
+      "filePath": "assets/minecraft/sounds/records/music_disc_cupid_s_girl16.ogg",
+      "imagePath": "assets/minecraft/textures/item/cupid_s_girl16.png",
+      "animated": false
+    },
+    {
+      "title": "METALLIC STALLION",
+      "author": "MARINA",
+      "length": 255.047982,
+      "filePath": "assets/minecraft/sounds/records/music_disc_metallic_stallion17.ogg",
+      "imagePath": "assets/minecraft/textures/item/metallic_stallion17.png",
+      "animated": false
+    },
+    {
+      "title": "JE NE SAIS QUOI",
+      "author": "MARINA",
+      "length": 214.064762,
+      "filePath": "assets/minecraft/sounds/records/music_disc_je_ne_sais_quoi18.ogg",
+      "imagePath": "assets/minecraft/textures/item/je_ne_sais_quoi18.png",
+      "animated": false
+    },
+    {
+      "title": "DIGITAL FANTASY",
+      "author": "MARINA",
+      "length": 199.064671,
+      "filePath": "assets/minecraft/sounds/records/music_disc_digital_fantasy19.ogg",
+      "imagePath": "assets/minecraft/textures/item/digital_fantasy19.png",
+      "animated": false
+    },
+    {
+      "title": "EVERYBODY KNOWS I'M SAD",
+      "author": "MARINA",
+      "length": 247.060317,
+      "filePath": "assets/minecraft/sounds/records/music_disc_everybody_knows_i_m_sad20.ogg",
+      "imagePath": "assets/minecraft/textures/item/everybody_knows_i_m_sad20.png",
+      "animated": false
+    },
+    {
+      "title": "HELLO KITTY",
+      "author": "MARINA",
+      "length": 210.04771,
+      "filePath": "assets/minecraft/sounds/records/music_disc_hello_kitty21.ogg",
+      "imagePath": "assets/minecraft/textures/item/hello_kitty21.png",
+      "animated": false
+    },
+    {
+      "title": "I <3 YOU",
+      "author": "MARINA",
+      "length": 224.769161,
+      "filePath": "assets/minecraft/sounds/records/music_disc_i__3_you22.ogg",
+      "imagePath": "assets/minecraft/textures/item/i__3_you22.png",
+      "animated": false
+    },
+    {
+      "title": "ADULT GIRL",
+      "author": "MARINA",
+      "length": 184.06458,
+      "filePath": "assets/minecraft/sounds/records/music_disc_adult_girl23.ogg",
+      "imagePath": "assets/minecraft/textures/item/adult_girl23.png",
+      "animated": false
+    },
+    {
+      "title": "FINAL BOSS",
+      "author": "MARINA",
+      "length": 191.053787,
+      "filePath": "assets/minecraft/sounds/records/music_disc_final_boss24.ogg",
+      "imagePath": "assets/minecraft/textures/item/final_boss24.png",
+      "animated": false
+    },
+    {
+      "title": "360",
+      "author": "Charli xcx",
+      "length": 133.826757,
+      "filePath": "assets/minecraft/sounds/records/music_disc_36025.ogg",
+      "imagePath": "assets/minecraft/textures/item/36025.png",
+      "animated": false
+    },
+    {
+      "title": "Club classics",
+      "author": "Charli xcx",
+      "length": 153.540499,
+      "filePath": "assets/minecraft/sounds/records/music_disc_club_classics26.ogg",
+      "imagePath": "assets/minecraft/textures/item/club_classics26.png",
+      "animated": false
+    },
+    {
+      "title": "Sympathy is a knife",
+      "author": "Charli xcx",
+      "length": 151.125624,
+      "filePath": "assets/minecraft/sounds/records/music_disc_sympathy_is_a_knife27.ogg",
+      "imagePath": "assets/minecraft/textures/item/sympathy_is_a_knife27.png",
+      "animated": false
+    },
+    {
+      "title": "I might say something stupid",
+      "author": "Charli xcx",
+      "length": 109.213605,
+      "filePath": "assets/minecraft/sounds/records/music_disc_i_might_say_something_stupid28.ogg",
+      "imagePath": "assets/minecraft/textures/item/i_might_say_something_stupid28.png",
+      "animated": false
+    },
+    {
+      "title": "Talk talk",
+      "author": "Charli xcx",
+      "length": 161.760363,
+      "filePath": "assets/minecraft/sounds/records/music_disc_talk_talk29.ogg",
+      "imagePath": "assets/minecraft/textures/item/talk_talk29.png",
+      "animated": false
+    },
+    {
+      "title": "Von dutch",
+      "author": "Charli xcx",
+      "length": 164.291338,
+      "filePath": "assets/minecraft/sounds/records/music_disc_von_dutch30.ogg",
+      "imagePath": "assets/minecraft/textures/item/von_dutch30.png",
+      "animated": false
+    },
+    {
+      "title": "Everything is romantic",
+      "author": "Charli xcx",
+      "length": 203.486621,
+      "filePath": "assets/minecraft/sounds/records/music_disc_everything_is_romantic31.ogg",
+      "imagePath": "assets/minecraft/textures/item/everything_is_romantic31.png",
+      "animated": false
+    },
+    {
+      "title": "Rewind",
+      "author": "Charli xcx",
+      "length": 168.44771,
+      "filePath": "assets/minecraft/sounds/records/music_disc_rewind32.ogg",
+      "imagePath": "assets/minecraft/textures/item/rewind32.png",
+      "animated": false
+    },
+    {
+      "title": "So I",
+      "author": "Charli xcx",
+      "length": 211.358186,
+      "filePath": "assets/minecraft/sounds/records/music_disc_so_i33.ogg",
+      "imagePath": "assets/minecraft/textures/item/so_i33.png",
+      "animated": false
+    },
+    {
+      "title": "Girl, so confusing",
+      "author": "Charli xcx",
+      "length": 174.508118,
+      "filePath": "assets/minecraft/sounds/records/music_disc_girl__so_confusing34.ogg",
+      "imagePath": "assets/minecraft/textures/item/girl__so_confusing34.png",
+      "animated": false
+    },
+    {
+      "title": "Apple",
+      "author": "Charli xcx",
+      "length": 151.752562,
+      "filePath": "assets/minecraft/sounds/records/music_disc_apple35.ogg",
+      "imagePath": "assets/minecraft/textures/item/apple35.png",
+      "animated": false
+    },
+    {
+      "title": "B2b",
+      "author": "Charli xcx",
+      "length": 178.59483,
+      "filePath": "assets/minecraft/sounds/records/music_disc_b2b36.ogg",
+      "imagePath": "assets/minecraft/textures/item/b2b36.png",
+      "animated": false
+    },
+    {
+      "title": "Mean girls",
+      "author": "Charli xcx",
+      "length": 189.415329,
+      "filePath": "assets/minecraft/sounds/records/music_disc_mean_girls37.ogg",
+      "imagePath": "assets/minecraft/textures/item/mean_girls37.png",
+      "animated": false
+    },
+    {
+      "title": "I think about it all the time",
+      "author": "Charli xcx",
+      "length": 135.893333,
+      "filePath": "assets/minecraft/sounds/records/music_disc_i_think_about_it_all_the_time38.ogg",
+      "imagePath": "assets/minecraft/textures/item/i_think_about_it_all_the_time38.png",
+      "animated": false
+    },
+    {
+      "title": "365",
+      "author": "Charli xcx",
+      "length": 203.625941,
+      "filePath": "assets/minecraft/sounds/records/music_disc_36539.ogg",
+      "imagePath": "assets/minecraft/textures/item/36539.png",
+      "animated": false
+    },
+    {
+      "title": "Hello goodbye",
+      "author": "Charli xcx",
+      "length": 219.48517,
+      "filePath": "assets/minecraft/sounds/records/music_disc_hello_goodbye40.ogg",
+      "imagePath": "assets/minecraft/textures/item/hello_goodbye40.png",
+      "animated": false
+    },
+    {
+      "title": "Guess",
+      "author": "Charli xcx",
+      "length": 142.278821,
+      "filePath": "assets/minecraft/sounds/records/music_disc_guess41.ogg",
+      "imagePath": "assets/minecraft/textures/item/guess41.png",
+      "animated": false
+    },
+    {
+      "title": "Spring breakers",
+      "author": "Charli xcx",
+      "length": 142.53424,
+      "filePath": "assets/minecraft/sounds/records/music_disc_spring_breakers42.ogg",
+      "imagePath": "assets/minecraft/textures/item/spring_breakers42.png",
+      "animated": false
+    },
+    {
+      "title": "360 featuring robyn & yung lean",
+      "author": "Charli xcx, Robyn, Yung Lean",
+      "length": 121.287982,
+      "filePath": "assets/minecraft/sounds/records/music_disc_360_featuring_robyn___yung_lean43.ogg",
+      "imagePath": "assets/minecraft/textures/item/360_featuring_robyn___yung_lean43.png",
+      "animated": false
+    },
+    {
+      "title": "Club classics featuring bb trickz",
+      "author": "Charli xcx, Bb trickz",
+      "length": 174.345578,
+      "filePath": "assets/minecraft/sounds/records/music_disc_club_classics_featuring_bb_trickz44.ogg",
+      "imagePath": "assets/minecraft/textures/item/club_classics_featuring_bb_trickz44.png",
+      "animated": false
+    },
+    {
+      "title": "Sympathy is a knife featuring ariana grande",
+      "author": "Charli xcx, Ariana Grande",
+      "length": 154.144218,
+      "filePath": "assets/minecraft/sounds/records/music_disc_sympathy_is_a_knife_featuring_ariana_grande45.ogg",
+      "imagePath": "assets/minecraft/textures/item/sympathy_is_a_knife_featuring_ariana_grande45.png",
+      "animated": false
+    },
+    {
+      "title": "I might say something stupid featuring the 1975 & jon hopkins",
+      "author": "Charli xcx, The 1975, Jon Hopkins",
+      "length": 250.623129,
+      "filePath": "assets/minecraft/sounds/records/music_disc_i_might_say_something_stupid_featuring_the_1975___jon_hopkins46.ogg",
+      "imagePath": "assets/minecraft/textures/item/i_might_say_something_stupid_featuring_the_1975___jon_hopkins46.png",
+      "animated": false
+    },
+    {
+      "title": "Talk talk featuring troye sivan",
+      "author": "Charli xcx, Troye Sivan",
+      "length": 173.091701,
+      "filePath": "assets/minecraft/sounds/records/music_disc_talk_talk_featuring_troye_sivan47.ogg",
+      "imagePath": "assets/minecraft/textures/item/talk_talk_featuring_troye_sivan47.png",
+      "animated": false
+    },
+    {
+      "title": "Von dutch a. g. cook remix featuring addison rae",
+      "author": "Charli xcx, Addison Rae, A. G. Cook",
+      "length": 157.348571,
+      "filePath": "assets/minecraft/sounds/records/music_disc_von_dutch_a__g48.ogg",
+      "imagePath": "assets/minecraft/textures/item/von_dutch_a__g48.png",
+      "animated": false
+    },
+    {
+      "title": "Everything is romantic featuring caroline polachek",
+      "author": "Charli xcx, Caroline Polachek",
+      "length": 203.95102,
+      "filePath": "assets/minecraft/sounds/records/music_disc_everything_is_romantic_featuring_caroline_polachek49.ogg",
+      "imagePath": "assets/minecraft/textures/item/everything_is_romantic_featuring_caroline_polachek49.png",
+      "animated": false
+    },
+    {
+      "title": "Rewind featuring bladee",
+      "author": "Charli xcx",
+      "length": 162.94458,
+      "filePath": "assets/minecraft/sounds/records/music_disc_rewind_featuring_bladee50.ogg",
+      "imagePath": "assets/minecraft/textures/item/rewind_featuring_bladee50.png",
+      "animated": false
+    },
+    {
+      "title": "So I featuring a. g. cook",
+      "author": "Charli xcx, A. G. Cook",
+      "length": 279.230113,
+      "filePath": "assets/minecraft/sounds/records/music_disc_so_i_featuring_a__g51.ogg",
+      "imagePath": "assets/minecraft/textures/item/so_i_featuring_a__g51.png",
+      "animated": false
+    },
+    {
+      "title": "Girl, so confusing featuring lorde",
+      "author": "Charli xcx, Lorde",
+      "length": 205.947937,
+      "filePath": "assets/minecraft/sounds/records/music_disc_girl__so_confusing_featuring_lorde52.ogg",
+      "imagePath": "assets/minecraft/textures/item/girl__so_confusing_featuring_lorde52.png",
+      "animated": false
+    },
+    {
+      "title": "Apple featuring the japanese house",
+      "author": "Charli xcx, The Japanese House",
+      "length": 157.371791,
+      "filePath": "assets/minecraft/sounds/records/music_disc_apple_featuring_the_japanese_house53.ogg",
+      "imagePath": "assets/minecraft/textures/item/apple_featuring_the_japanese_house53.png",
+      "animated": false
+    },
+    {
+      "title": "B2b, featuring tinashe",
+      "author": "Charli xcx, Tinashe",
+      "length": 153.401179,
+      "filePath": "assets/minecraft/sounds/records/music_disc_b2b__featuring_tinashe54.ogg",
+      "imagePath": "assets/minecraft/textures/item/b2b__featuring_tinashe54.png",
+      "animated": false
+    },
+    {
+      "title": "Mean girls, featuring julian casablancas",
+      "author": "Charli xcx, Julian Casablancas",
+      "length": 226.706576,
+      "filePath": "assets/minecraft/sounds/records/music_disc_mean_girls__featuring_julian_casablancas55.ogg",
+      "imagePath": "assets/minecraft/textures/item/mean_girls__featuring_julian_casablancas55.png",
+      "animated": false
+    },
+    {
+      "title": "I think about it all the time featuring bon iver",
+      "author": "Charli xcx, Bon Iver",
+      "length": 200.050068,
+      "filePath": "assets/minecraft/sounds/records/music_disc_i_think_about_it_all_the_time_featuring_bon_iver56.ogg",
+      "imagePath": "assets/minecraft/textures/item/i_think_about_it_all_the_time_featuring_bon_iver56.png",
+      "animated": false
+    },
+    {
+      "title": "365 featuring shygirl",
+      "author": "Charli xcx, Shygirl",
+      "length": 121.287982,
+      "filePath": "assets/minecraft/sounds/records/music_disc_365_featuring_shygirl57.ogg",
+      "imagePath": "assets/minecraft/textures/item/365_featuring_shygirl57.png",
+      "animated": false
+    },
+    {
+      "title": "Guess featuring billie eilish",
+      "author": "Charli xcx, Billie Eilish",
+      "length": 143.346939,
+      "filePath": "assets/minecraft/sounds/records/music_disc_guess_featuring_billie_eilish58.ogg",
+      "imagePath": "assets/minecraft/textures/item/guess_featuring_billie_eilish58.png",
+      "animated": false
+    },
+    {
+      "title": "Spring breakers featuring kesha",
+      "author": "Charli xcx, Kesha",
+      "length": 142.53424,
+      "filePath": "assets/minecraft/sounds/records/music_disc_spring_breakers_featuring_kesha59.ogg",
+      "imagePath": "assets/minecraft/textures/item/spring_breakers_featuring_kesha59.png",
+      "animated": false
+    },
+    {
+      "title": "Von dutch remix with skream and benga",
+      "author": "Charli xcx, Skream & Benga",
+      "length": 281.15737,
+      "filePath": "assets/minecraft/sounds/records/music_disc_von_dutch_remix_with_skream_and_benga60.ogg",
+      "imagePath": "assets/minecraft/textures/item/von_dutch_remix_with_skream_and_benga60.png",
+      "animated": false
+    },
+    {
+      "title": "CPR",
+      "author": "cupcakKe",
+      "length": 208.436803,
+      "filePath": "assets/minecraft/sounds/records/music_disc_cpr61.ogg",
+      "imagePath": "assets/minecraft/textures/item/cpr61.png",
+      "animated": false
+    }
+  ]
+}

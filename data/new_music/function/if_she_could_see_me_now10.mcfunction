@@ -1,0 +1,2 @@
+#give If She Could See Me Now to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:if_she_could_see_me_now10",minecraft:custom_model_data={strings:["if_she_could_see_me_now10"]}]

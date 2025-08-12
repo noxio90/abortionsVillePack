@@ -1,0 +1,446 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_13"
+    },
+    "cases": [
+      {
+        "when": "one_of_my_bedbugs_ate_my_pussy0",
+        "model": {
+          "type": "model",
+          "model": "item/one_of_my_bedbugs_ate_my_pussy0"
+        }
+      },
+      {
+        "when": "hammer1",
+        "model": {
+          "type": "model",
+          "model": "item/hammer1"
+        }
+      },
+      {
+        "when": "what_was_that2",
+        "model": {
+          "type": "model",
+          "model": "item/what_was_that2"
+        }
+      },
+      {
+        "when": "shapeshifter3",
+        "model": {
+          "type": "model",
+          "model": "item/shapeshifter3"
+        }
+      },
+      {
+        "when": "man_of_the_year4",
+        "model": {
+          "type": "model",
+          "model": "item/man_of_the_year4"
+        }
+      },
+      {
+        "when": "favourite_daughter5",
+        "model": {
+          "type": "model",
+          "model": "item/favourite_daughter5"
+        }
+      },
+      {
+        "when": "current_affairs6",
+        "model": {
+          "type": "model",
+          "model": "item/current_affairs6"
+        }
+      },
+      {
+        "when": "clearblue7",
+        "model": {
+          "type": "model",
+          "model": "item/clearblue7"
+        }
+      },
+      {
+        "when": "grwm8",
+        "model": {
+          "type": "model",
+          "model": "item/grwm8"
+        }
+      },
+      {
+        "when": "broken_glass9",
+        "model": {
+          "type": "model",
+          "model": "item/broken_glass9"
+        }
+      },
+      {
+        "when": "if_she_could_see_me_now10",
+        "model": {
+          "type": "model",
+          "model": "item/if_she_could_see_me_now10"
+        }
+      },
+      {
+        "when": "david11",
+        "model": {
+          "type": "model",
+          "model": "item/david11"
+        }
+      },
+      {
+        "when": "princess_of_power12",
+        "model": {
+          "type": "model",
+          "model": "item/princess_of_power12"
+        }
+      },
+      {
+        "when": "butterfly13",
+        "model": {
+          "type": "model",
+          "model": "item/butterfly13"
+        }
+      },
+      {
+        "when": "cuntissimo14",
+        "model": {
+          "type": "model",
+          "model": "item/cuntissimo14"
+        }
+      },
+      {
+        "when": "rollercoaster15",
+        "model": {
+          "type": "model",
+          "model": "item/rollercoaster15"
+        }
+      },
+      {
+        "when": "cupid_s_girl16",
+        "model": {
+          "type": "model",
+          "model": "item/cupid_s_girl16"
+        }
+      },
+      {
+        "when": "metallic_stallion17",
+        "model": {
+          "type": "model",
+          "model": "item/metallic_stallion17"
+        }
+      },
+      {
+        "when": "je_ne_sais_quoi18",
+        "model": {
+          "type": "model",
+          "model": "item/je_ne_sais_quoi18"
+        }
+      },
+      {
+        "when": "digital_fantasy19",
+        "model": {
+          "type": "model",
+          "model": "item/digital_fantasy19"
+        }
+      },
+      {
+        "when": "everybody_knows_i_m_sad20",
+        "model": {
+          "type": "model",
+          "model": "item/everybody_knows_i_m_sad20"
+        }
+      },
+      {
+        "when": "hello_kitty21",
+        "model": {
+          "type": "model",
+          "model": "item/hello_kitty21"
+        }
+      },
+      {
+        "when": "i__3_you22",
+        "model": {
+          "type": "model",
+          "model": "item/i__3_you22"
+        }
+      },
+      {
+        "when": "adult_girl23",
+        "model": {
+          "type": "model",
+          "model": "item/adult_girl23"
+        }
+      },
+      {
+        "when": "final_boss24",
+        "model": {
+          "type": "model",
+          "model": "item/final_boss24"
+        }
+      },
+      {
+        "when": "36025",
+        "model": {
+          "type": "model",
+          "model": "item/36025"
+        }
+      },
+      {
+        "when": "club_classics26",
+        "model": {
+          "type": "model",
+          "model": "item/club_classics26"
+        }
+      },
+      {
+        "when": "sympathy_is_a_knife27",
+        "model": {
+          "type": "model",
+          "model": "item/sympathy_is_a_knife27"
+        }
+      },
+      {
+        "when": "i_might_say_something_stupid28",
+        "model": {
+          "type": "model",
+          "model": "item/i_might_say_something_stupid28"
+        }
+      },
+      {
+        "when": "talk_talk29",
+        "model": {
+          "type": "model",
+          "model": "item/talk_talk29"
+        }
+      },
+      {
+        "when": "von_dutch30",
+        "model": {
+          "type": "model",
+          "model": "item/von_dutch30"
+        }
+      },
+      {
+        "when": "everything_is_romantic31",
+        "model": {
+          "type": "model",
+          "model": "item/everything_is_romantic31"
+        }
+      },
+      {
+        "when": "rewind32",
+        "model": {
+          "type": "model",
+          "model": "item/rewind32"
+        }
+      },
+      {
+        "when": "so_i33",
+        "model": {
+          "type": "model",
+          "model": "item/so_i33"
+        }
+      },
+      {
+        "when": "girl__so_confusing34",
+        "model": {
+          "type": "model",
+          "model": "item/girl__so_confusing34"
+        }
+      },
+      {
+        "when": "apple35",
+        "model": {
+          "type": "model",
+          "model": "item/apple35"
+        }
+      },
+      {
+        "when": "b2b36",
+        "model": {
+          "type": "model",
+          "model": "item/b2b36"
+        }
+      },
+      {
+        "when": "mean_girls37",
+        "model": {
+          "type": "model",
+          "model": "item/mean_girls37"
+        }
+      },
+      {
+        "when": "i_think_about_it_all_the_time38",
+        "model": {
+          "type": "model",
+          "model": "item/i_think_about_it_all_the_time38"
+        }
+      },
+      {
+        "when": "36539",
+        "model": {
+          "type": "model",
+          "model": "item/36539"
+        }
+      },
+      {
+        "when": "hello_goodbye40",
+        "model": {
+          "type": "model",
+          "model": "item/hello_goodbye40"
+        }
+      },
+      {
+        "when": "guess41",
+        "model": {
+          "type": "model",
+          "model": "item/guess41"
+        }
+      },
+      {
+        "when": "spring_breakers42",
+        "model": {
+          "type": "model",
+          "model": "item/spring_breakers42"
+        }
+      },
+      {
+        "when": "360_featuring_robyn___yung_lean43",
+        "model": {
+          "type": "model",
+          "model": "item/360_featuring_robyn___yung_lean43"
+        }
+      },
+      {
+        "when": "club_classics_featuring_bb_trickz44",
+        "model": {
+          "type": "model",
+          "model": "item/club_classics_featuring_bb_trickz44"
+        }
+      },
+      {
+        "when": "sympathy_is_a_knife_featuring_ariana_grande45",
+        "model": {
+          "type": "model",
+          "model": "item/sympathy_is_a_knife_featuring_ariana_grande45"
+        }
+      },
+      {
+        "when": "i_might_say_something_stupid_featuring_the_1975___jon_hopkins46",
+        "model": {
+          "type": "model",
+          "model": "item/i_might_say_something_stupid_featuring_the_1975___jon_hopkins46"
+        }
+      },
+      {
+        "when": "talk_talk_featuring_troye_sivan47",
+        "model": {
+          "type": "model",
+          "model": "item/talk_talk_featuring_troye_sivan47"
+        }
+      },
+      {
+        "when": "von_dutch_a__g48",
+        "model": {
+          "type": "model",
+          "model": "item/von_dutch_a__g48"
+        }
+      },
+      {
+        "when": "everything_is_romantic_featuring_caroline_polachek49",
+        "model": {
+          "type": "model",
+          "model": "item/everything_is_romantic_featuring_caroline_polachek49"
+        }
+      },
+      {
+        "when": "rewind_featuring_bladee50",
+        "model": {
+          "type": "model",
+          "model": "item/rewind_featuring_bladee50"
+        }
+      },
+      {
+        "when": "so_i_featuring_a__g51",
+        "model": {
+          "type": "model",
+          "model": "item/so_i_featuring_a__g51"
+        }
+      },
+      {
+        "when": "girl__so_confusing_featuring_lorde52",
+        "model": {
+          "type": "model",
+          "model": "item/girl__so_confusing_featuring_lorde52"
+        }
+      },
+      {
+        "when": "apple_featuring_the_japanese_house53",
+        "model": {
+          "type": "model",
+          "model": "item/apple_featuring_the_japanese_house53"
+        }
+      },
+      {
+        "when": "b2b__featuring_tinashe54",
+        "model": {
+          "type": "model",
+          "model": "item/b2b__featuring_tinashe54"
+        }
+      },
+      {
+        "when": "mean_girls__featuring_julian_casablancas55",
+        "model": {
+          "type": "model",
+          "model": "item/mean_girls__featuring_julian_casablancas55"
+        }
+      },
+      {
+        "when": "i_think_about_it_all_the_time_featuring_bon_iver56",
+        "model": {
+          "type": "model",
+          "model": "item/i_think_about_it_all_the_time_featuring_bon_iver56"
+        }
+      },
+      {
+        "when": "365_featuring_shygirl57",
+        "model": {
+          "type": "model",
+          "model": "item/365_featuring_shygirl57"
+        }
+      },
+      {
+        "when": "guess_featuring_billie_eilish58",
+        "model": {
+          "type": "model",
+          "model": "item/guess_featuring_billie_eilish58"
+        }
+      },
+      {
+        "when": "spring_breakers_featuring_kesha59",
+        "model": {
+          "type": "model",
+          "model": "item/spring_breakers_featuring_kesha59"
+        }
+      },
+      {
+        "when": "von_dutch_remix_with_skream_and_benga60",
+        "model": {
+          "type": "model",
+          "model": "item/von_dutch_remix_with_skream_and_benga60"
+        }
+      },
+      {
+        "when": "cpr61",
+        "model": {
+          "type": "model",
+          "model": "item/cpr61"
+        }
+      }
+    ]
+  }
+}

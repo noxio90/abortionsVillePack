@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/everything_is_romantic_featuring_caroline_polachek49"
+  }
+}

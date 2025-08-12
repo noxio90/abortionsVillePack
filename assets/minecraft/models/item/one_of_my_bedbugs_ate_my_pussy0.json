@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/one_of_my_bedbugs_ate_my_pussy0"
+  }
+}

@@ -1,0 +1,2 @@
+#give Spring breakers featuring kesha to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:spring_breakers_featuring_kesha59",minecraft:custom_model_data={strings:["spring_breakers_featuring_kesha59"]}]

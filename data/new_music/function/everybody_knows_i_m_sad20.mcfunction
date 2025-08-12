@@ -1,0 +1,2 @@
+#give EVERYBODY KNOWS I'M SAD to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:everybody_knows_i_m_sad20",minecraft:custom_model_data={strings:["everybody_knows_i_m_sad20"]}]

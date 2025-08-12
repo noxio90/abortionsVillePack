@@ -1,0 +1,2 @@
+#give Apple featuring the japanese house to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:apple_featuring_the_japanese_house53",minecraft:custom_model_data={strings:["apple_featuring_the_japanese_house53"]}]

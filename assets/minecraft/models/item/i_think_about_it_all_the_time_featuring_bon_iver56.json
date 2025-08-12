@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/i_think_about_it_all_the_time_featuring_bon_iver56"
+  }
+}

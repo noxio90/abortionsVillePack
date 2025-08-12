@@ -1,0 +1,2 @@
+#give One of My Bedbugs Ate My Pussy to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:one_of_my_bedbugs_ate_my_pussy0",minecraft:custom_model_data={strings:["one_of_my_bedbugs_ate_my_pussy0"]}]

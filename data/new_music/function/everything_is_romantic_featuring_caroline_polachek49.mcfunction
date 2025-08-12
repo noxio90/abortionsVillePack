@@ -1,0 +1,2 @@
+#give Everything is romantic featuring caroline polachek to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:everything_is_romantic_featuring_caroline_polachek49",minecraft:custom_model_data={strings:["everything_is_romantic_featuring_caroline_polachek49"]}]

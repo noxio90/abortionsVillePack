@@ -1,0 +1,2 @@
+#give Von dutch remix with skream and benga to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:von_dutch_remix_with_skream_and_benga60",minecraft:custom_model_data={strings:["von_dutch_remix_with_skream_and_benga60"]}]

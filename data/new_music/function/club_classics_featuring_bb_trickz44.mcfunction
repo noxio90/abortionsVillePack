@@ -1,0 +1,2 @@
+#give Club classics featuring bb trickz to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:club_classics_featuring_bb_trickz44",minecraft:custom_model_data={strings:["club_classics_featuring_bb_trickz44"]}]

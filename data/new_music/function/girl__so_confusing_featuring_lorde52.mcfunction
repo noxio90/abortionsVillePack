@@ -1,0 +1,2 @@
+#give Girl, so confusing featuring lorde to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:girl__so_confusing_featuring_lorde52",minecraft:custom_model_data={strings:["girl__so_confusing_featuring_lorde52"]}]

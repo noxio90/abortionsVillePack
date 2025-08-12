@@ -1,0 +1,2 @@
+#give Von dutch a. g. cook remix featuring addison rae to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:von_dutch_a__g48",minecraft:custom_model_data={strings:["von_dutch_a__g48"]}]

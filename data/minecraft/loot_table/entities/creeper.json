@@ -1,0 +1,1110 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 2,
+                                "min": 0
+                            },
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 1,
+                                "min": 0
+                            },
+                            "enchantment": "minecraft:looting",
+                            "function": "minecraft:enchanted_count_increase"
+                        }
+                    ],
+                    "name": "minecraft:gunpowder"
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "bonus_rolls": 0,
+            "conditions": [
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "attacker",
+                    "predicate": {
+                        "type": "#minecraft:skeletons"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:tag",
+                    "expand": true,
+                    "name": "minecraft:creeper_drop_music_discs"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "one_of_my_bedbugs_ate_my_pussy0"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:one_of_my_bedbugs_ate_my_pussy0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "hammer1"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:hammer1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "what_was_that2"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:what_was_that2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "shapeshifter3"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:shapeshifter3"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "man_of_the_year4"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:man_of_the_year4"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "favourite_daughter5"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:favourite_daughter5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "current_affairs6"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:current_affairs6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "clearblue7"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:clearblue7"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "grwm8"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:grwm8"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "broken_glass9"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:broken_glass9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "if_she_could_see_me_now10"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:if_she_could_see_me_now10"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "david11"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:david11"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "princess_of_power12"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:princess_of_power12"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "butterfly13"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:butterfly13"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "cuntissimo14"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:cuntissimo14"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "rollercoaster15"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:rollercoaster15"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "cupid_s_girl16"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:cupid_s_girl16"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "metallic_stallion17"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:metallic_stallion17"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "je_ne_sais_quoi18"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:je_ne_sais_quoi18"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "digital_fantasy19"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:digital_fantasy19"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "everybody_knows_i_m_sad20"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:everybody_knows_i_m_sad20"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "hello_kitty21"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:hello_kitty21"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "i__3_you22"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:i__3_you22"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "adult_girl23"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:adult_girl23"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "final_boss24"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:final_boss24"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "36025"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:36025"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "club_classics26"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:club_classics26"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "sympathy_is_a_knife27"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:sympathy_is_a_knife27"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "i_might_say_something_stupid28"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:i_might_say_something_stupid28"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "talk_talk29"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:talk_talk29"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "von_dutch30"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:von_dutch30"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "everything_is_romantic31"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:everything_is_romantic31"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "rewind32"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:rewind32"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "so_i33"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:so_i33"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "girl__so_confusing34"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:girl__so_confusing34"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "apple35"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:apple35"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "b2b36"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:b2b36"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "mean_girls37"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:mean_girls37"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "i_think_about_it_all_the_time38"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:i_think_about_it_all_the_time38"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "36539"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:36539"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "hello_goodbye40"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:hello_goodbye40"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "guess41"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:guess41"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "spring_breakers42"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:spring_breakers42"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "360_featuring_robyn___yung_lean43"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:360_featuring_robyn___yung_lean43"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "club_classics_featuring_bb_trickz44"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:club_classics_featuring_bb_trickz44"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "sympathy_is_a_knife_featuring_ariana_grande45"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:sympathy_is_a_knife_featuring_ariana_grande45"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "i_might_say_something_stupid_featuring_the_1975___jon_hopkins46"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:i_might_say_something_stupid_featuring_the_1975___jon_hopkins46"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "talk_talk_featuring_troye_sivan47"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:talk_talk_featuring_troye_sivan47"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "von_dutch_a__g48"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:von_dutch_a__g48"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "everything_is_romantic_featuring_caroline_polachek49"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:everything_is_romantic_featuring_caroline_polachek49"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "rewind_featuring_bladee50"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:rewind_featuring_bladee50"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "so_i_featuring_a__g51"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:so_i_featuring_a__g51"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "girl__so_confusing_featuring_lorde52"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:girl__so_confusing_featuring_lorde52"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "apple_featuring_the_japanese_house53"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:apple_featuring_the_japanese_house53"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "b2b__featuring_tinashe54"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:b2b__featuring_tinashe54"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "mean_girls__featuring_julian_casablancas55"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:mean_girls__featuring_julian_casablancas55"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "i_think_about_it_all_the_time_featuring_bon_iver56"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:i_think_about_it_all_the_time_featuring_bon_iver56"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "365_featuring_shygirl57"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:365_featuring_shygirl57"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "guess_featuring_billie_eilish58"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:guess_featuring_billie_eilish58"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "spring_breakers_featuring_kesha59"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:spring_breakers_featuring_kesha59"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "von_dutch_remix_with_skream_and_benga60"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:von_dutch_remix_with_skream_and_benga60"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_13",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_model_data": {
+                                    "strings": [
+                                        "cpr61"
+                                    ]
+                                },
+                                "minecraft:jukebox_playable": "new_music:cpr61"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "rolls": 1
+        }
+    ],
+    "random_sequence": "minecraft:entities/creeper"
+}

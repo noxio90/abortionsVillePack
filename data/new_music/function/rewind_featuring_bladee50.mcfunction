@@ -1,0 +1,2 @@
+#give Rewind featuring bladee to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:rewind_featuring_bladee50",minecraft:custom_model_data={strings:["rewind_featuring_bladee50"]}]

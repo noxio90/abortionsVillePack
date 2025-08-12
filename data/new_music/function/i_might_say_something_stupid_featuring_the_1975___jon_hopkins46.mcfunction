@@ -1,0 +1,2 @@
+#give I might say something stupid featuring the 1975 & jon hopkins to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:i_might_say_something_stupid_featuring_the_1975___jon_hopkins46",minecraft:custom_model_data={strings:["i_might_say_something_stupid_featuring_the_1975___jon_hopkins46"]}]

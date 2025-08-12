@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/girl__so_confusing_featuring_lorde52"
+  }
+}

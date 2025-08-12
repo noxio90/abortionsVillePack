@@ -1,0 +1,2 @@
+#give I might say something stupid to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:i_might_say_something_stupid28",minecraft:custom_model_data={strings:["i_might_say_something_stupid28"]}]

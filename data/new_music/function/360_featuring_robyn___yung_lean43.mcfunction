@@ -1,0 +1,2 @@
+#give 360 featuring robyn & yung lean to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:360_featuring_robyn___yung_lean43",minecraft:custom_model_data={strings:["360_featuring_robyn___yung_lean43"]}]

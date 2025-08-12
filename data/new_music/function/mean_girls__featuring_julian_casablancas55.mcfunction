@@ -1,0 +1,2 @@
+#give Mean girls, featuring julian casablancas to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:mean_girls__featuring_julian_casablancas55",minecraft:custom_model_data={strings:["mean_girls__featuring_julian_casablancas55"]}]

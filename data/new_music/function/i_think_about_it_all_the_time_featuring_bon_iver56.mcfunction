@@ -1,0 +1,2 @@
+#give I think about it all the time featuring bon iver to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:i_think_about_it_all_the_time_featuring_bon_iver56",minecraft:custom_model_data={strings:["i_think_about_it_all_the_time_featuring_bon_iver56"]}]

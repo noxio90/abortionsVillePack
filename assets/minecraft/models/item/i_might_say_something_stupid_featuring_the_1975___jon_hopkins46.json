@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/i_might_say_something_stupid_featuring_the_1975___jon_hopkins46"
+  }
+}

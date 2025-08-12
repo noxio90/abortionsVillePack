@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/von_dutch_remix_with_skream_and_benga60"
+  }
+}

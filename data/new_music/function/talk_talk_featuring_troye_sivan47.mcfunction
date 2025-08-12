@@ -1,0 +1,2 @@
+#give Talk talk featuring troye sivan to player
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:talk_talk_featuring_troye_sivan47",minecraft:custom_model_data={strings:["talk_talk_featuring_troye_sivan47"]}]
