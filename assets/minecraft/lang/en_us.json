@@ -5114,7 +5114,7 @@
   "multiplayer.downloadingTerrain": "Loading terrain...",
   "multiplayer.lan.server_found": "New server found: %s",
   "multiplayer.message_not_delivered": "Can't deliver chat message, check server logs: %s",
-  "multiplayer.player.joined": "%s jhas joined this hell",
+  "multiplayer.player.joined": "%s has joined this hell",
   "multiplayer.player.joined.renamed": "%s (formerly known as %s) joined the game",
   "multiplayer.player.left": "%s left the confines of this world",
   "multiplayer.player.list.hp": "%shp",
